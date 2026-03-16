@@ -256,13 +256,5 @@ function main(){
 		identify_ovpn_files
 		select_vpn
 }
-#		echo ""
-#		echo "[*] Identificando plataformas"
-#
-#		while IFS= read -r file; do
-#				plataforma=$(identify_plataform "$file")
-#				printf " %-50s -> %s\n" "$(basename "$file")" "$plataforma"
-#		done < <(find / -name "*.ovpn" -type f -not -path "/timeshift/*" 2>/dev/null)
-#}
 
 main
