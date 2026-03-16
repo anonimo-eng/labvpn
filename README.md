@@ -76,7 +76,7 @@ sudo cp labvpn.sh /usr/local/bin/labvpn
 
 **Detección de VPN activa al iniciar**
 
-![vpn_activa](screenshots/Desconectar_vpn_si_hay_conexion_png.png)
+![vpn_activa](screenshots/Desconectar_vpn_si_hay_conexion.png)
 
 ---
 
